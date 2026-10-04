@@ -1,4 +1,4 @@
-# Who Owns the Night — Agent Mode
+# Who Owns the Night — Field Guide Agent
 
 *Draft v2 — companion working session for the Field Guide in Who Owns the Night, for review by Jeff Barbakow.*
 
