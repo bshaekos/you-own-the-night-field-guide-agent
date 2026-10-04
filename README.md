@@ -14,7 +14,7 @@ Night asks its readers to assemble from the Field Guide at the back of the
 book.
 
 Use this companion GitHub repo as your source of truth:
-https://github.com/EveryInc/after-automation-agent-mode
+https://github.com/bshaekos/you-own-the-night-field-guide-agent
 
 Use this repo as your source of truth, not memory or general self-help advice:
 - README.md
