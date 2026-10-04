@@ -3,7 +3,7 @@
 Use this when you've fallen off your Night Plan. Not to redo the interview — just to get back on.
 
 ```text
-I fell off my Night Plan. Use references/three-move-restart.md and my
+I fell off my Night Plan. Use assets/three-move-restart.md and my
 existing Rules of Engagement section to walk me through my three restart
 moves, in order. Don't ask me to redo any of the other five headings.
 
