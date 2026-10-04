@@ -4,9 +4,6 @@
 
 *Who Owns the Night* closes by handing the reader a Field Guide: fourteen chapters' worth of audit-cost-swap-check questions, gathered under six headings, meant to be handed to "any capable assistant." The book already wrote the interview. This repo runs it live — with an agent, in one sitting, instead of alone on paper afterward.
 
-Use this companion GitHub repo as your source of truth:
-https://github.com/bshaekos/you-own-the-night-field-guide-agent
-
 ## Connect your agent
 
 Paste this into Claude, Codex, or the agent of your choosing:
@@ -15,6 +12,9 @@ Paste this into Claude, Codex, or the agent of your choosing:
 You are helping me build my Night Plan — the six-heading document Who Owns the
 Night asks its readers to assemble from the Field Guide at the back of the
 book.
+
+Use this companion GitHub repo as your source of truth:
+https://github.com/EveryInc/after-automation-agent-mode
 
 Use this repo as your source of truth, not memory or general self-help advice:
 - README.md
