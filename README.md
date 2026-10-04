@@ -4,6 +4,9 @@
 
 *Who Owns the Night* closes by handing the reader a Field Guide: fourteen chapters' worth of audit-cost-swap-check questions, gathered under six headings, meant to be handed to "any capable assistant." The book already wrote the interview. This repo runs it live — with an agent, in one sitting, instead of alone on paper afterward.
 
+Use this companion GitHub repo as your source of truth:
+https://github.com/bshaekos/you-own-the-night-field-guide-agent
+
 ## Connect your agent
 
 Paste this into Claude, Codex, or the agent of your choosing:
