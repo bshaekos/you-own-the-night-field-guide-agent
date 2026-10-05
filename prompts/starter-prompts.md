@@ -11,10 +11,9 @@ A film used to buy a whole evening of attention; what replaced it competes for s
 ```text
 Use the field guide in this repo to interview me on The Best Part of the Day.
 
-Use night-plan/interviewing-the-reader.md for this chapter's exact questions,
-night-plan/chapter-summaries.md for orientation, and claims.md if I ask why this chapter matters.
+Use night-plan/interviewing-the-reader.md for this chapter's exact questions, assets/chapter-summaries.md for orientation, and assets/claims.md if I ask why this chapter matters.
 
-Write back a short note of what you captured and confirm it's right before we move on.
+Show the chapter's four questions as the two-column table from night-plan/interviewing-the-reader.md before asking anything. Then ask them one at a time, in your own words. Once I've answered all four, reflect back what you captured as the same table, filled in with my answers, and confirm it's right before we move on.
 ```
 
 ## 2 · The Loneliness Algorithm
@@ -25,10 +24,9 @@ Late-night scrolling is rarely about the content on the screen — it's a search
 Use the field guide in this repo to interview me on Chapter 2 — The
 Loneliness Algorithm.
 
-Use night-plan/interviewing-the-reader.md for this chapter's exact questions,
-night-plan/chapter-summaries.md for orientation, and claims.md if I ask why this chapter matters.
+Use night-plan/interviewing-the-reader.md for this chapter's exact questions, assets/chapter-summaries.md for orientation, and assets/claims.md if I ask why this chapter matters.
 
-Write back a short note of what you captured and confirm it's right before we move on.
+Show the chapter's four questions as the two-column table from night-plan/interviewing-the-reader.md before asking anything. Then ask them one at a time, in your own words. Once I've answered all four, reflect back what you captured as the same table, filled in with my answers, and confirm it's right before we move on.
 ```
 
 ## 3 · The Engineer Who Couldn't Stop
@@ -38,9 +36,9 @@ Apps are built to pull hardest exactly when willpower is lowest — proof that a
 ```text
 Use the field guide in this repo to interview me on Chapter 3 — The Engineer Who Couldn't Stop.
 
-Use night-plan/interviewing-the-reader.md for this chapter's exact questions, night-plan/chapter-summaries.md for orientation, and claims.md if I ask why this chapter matters.
+Use night-plan/interviewing-the-reader.md for this chapter's exact questions, assets/chapter-summaries.md for orientation, and assets/claims.md if I ask why this chapter matters.
 
-Write back a short note of what you captured and confirm it's right before we move on.
+Show the chapter's four questions as the two-column table from night-plan/interviewing-the-reader.md before asking anything. Then ask them one at a time, in your own words. Once I've answered all four, reflect back what you captured as the same table, filled in with my answers, and confirm it's right before we move on.
 ```
 
 ## 4 · The Parent Who Disappeared
@@ -50,9 +48,9 @@ Presence has an address — this chapter asks where a loved one would actually f
 ```text
 Use the field guide in this repo to interview me on Chapter 4 — The Parent Who Disappeared.
 
-Use night-plan/interviewing-the-reader.md for this chapter's exact questions, night-plan/chapter-summaries.md for orientation, and claims.md if I ask why this chapter matters.
+Use night-plan/interviewing-the-reader.md for this chapter's exact questions, assets/chapter-summaries.md for orientation, and assets/claims.md if I ask why this chapter matters.
 
-Write back a short note of what you captured and confirm it's right before we move on.
+Show the chapter's four questions as the two-column table from night-plan/interviewing-the-reader.md before asking anything. Then ask them one at a time, in your own words. Once I've answered all four, reflect back what you captured as the same table, filled in with my answers, and confirm it's right before we move on.
 ```
 
 ## 5 · The Native Speaker
@@ -62,9 +60,9 @@ The body keeps score the mind avoids — sitting with discomfort instead of fill
 ```text
 Use the field guide in this repo to interview me on Chapter 5 — The Native Speaker.
 
-Use night-plan/interviewing-the-reader.md for this chapter's exact questions, night-plan/chapter-summaries.md for orientation, and claims.md if I ask why this chapter matters.
+Use night-plan/interviewing-the-reader.md for this chapter's exact questions, assets/chapter-summaries.md for orientation, and assets/claims.md if I ask why this chapter matters.
 
-Write back a short note of what you captured and confirm it's right before we move on.
+Show the chapter's four questions as the two-column table from night-plan/interviewing-the-reader.md before asking anything. Then ask them one at a time, in your own words. Once I've answered all four, reflect back what you captured as the same table, filled in with my answers, and confirm it's right before we move on.
 ```
 
 ## 6 · The Last Common Hour
@@ -74,9 +72,9 @@ Family dinner is the last stretch of shared, unscheduled time many households st
 ```text
 Use the field guide in this repo to interview me on Chapter 6 — The Last Common Hour.
 
-Use night-plan/interviewing-the-reader.md for this chapter's exact questions, night-plan/chapter-summaries.md for orientation, and claims.md if I ask why this chapter matters.
+Use night-plan/interviewing-the-reader.md for this chapter's exact questions, assets/chapter-summaries.md for orientation, and assets/claims.md if I ask why this chapter matters.
 
-Write back a short note of what you captured and confirm it's right before we move on.
+Show the chapter's four questions as the two-column table from night-plan/interviewing-the-reader.md before asking anything. Then ask them one at a time, in your own words. Once I've answered all four, reflect back what you captured as the same table, filled in with my answers, and confirm it's right before we move on.
 ```
 
 ## 7 · The Invoice
@@ -86,9 +84,9 @@ Memory keeps a ledger that nights pay into — seamless evenings vanish, distinc
 ```text
 Use the field guide in this repo to interview me on Chapter 7 — The Invoice.
 
-Use night-plan/interviewing-the-reader.md for this chapter's exact questions,night-plan/chapter-summaries.md for orientation, and claims.md if I ask why this chapter matters.
+Use night-plan/interviewing-the-reader.md for this chapter's exact questions, assets/chapter-summaries.md for orientation, and assets/claims.md if I ask why this chapter matters.
 
-Write back a short note of what you captured and confirm it's right before we move on.
+Show the chapter's four questions as the two-column table from night-plan/interviewing-the-reader.md before asking anything. Then ask them one at a time, in your own words. Once I've answered all four, reflect back what you captured as the same table, filled in with my answers, and confirm it's right before we move on.
 ```
 
 ## 8 · The Remedies That Don't Work
@@ -98,9 +96,9 @@ Most readers have already tried something — a rule, an app limit, a vow — on
 ```text
 Use the field guide in this repo to interview me on Chapter 8 — The Remedies That Don't Work.
 
-Use night-plan/interviewing-the-reader.md for this chapter's exact questions,night-plan/chapter-summaries.md for orientation, and claims.md if I ask why this chapter matters.
+Use night-plan/interviewing-the-reader.md for this chapter's exact questions, assets/chapter-summaries.md for orientation, and assets/claims.md if I ask why this chapter matters.
 
-Write back a short note of what you captured and confirm it's right before we move on.
+Show the chapter's four questions as the two-column table from night-plan/interviewing-the-reader.md before asking anything. Then ask them one at a time, in your own words. Once I've answered all four, reflect back what you captured as the same table, filled in with my answers, and confirm it's right before we move on.
 ```
 
 ## 9 · The Crack in the Wall
@@ -110,9 +108,9 @@ Somewhere in a default night is one activity worth protecting completely.
 ```text
 Use the field guide in this repo to interview me on Chapter 9 — The Crack in the Wall.
 
-Use night-plan/interviewing-the-reader.md for this chapter's exact questions, night-plan/chapter-summaries.md for orientation, and claims.md if I ask why this chapter matters.
+Use night-plan/interviewing-the-reader.md for this chapter's exact questions, assets/chapter-summaries.md for orientation, and assets/claims.md if I ask why this chapter matters.
 
-Write back a short note of what you captured and confirm it's right before we move on.
+Show the chapter's four questions as the two-column table from night-plan/interviewing-the-reader.md before asking anything. Then ask them one at a time, in your own words. Once I've answered all four, reflect back what you captured as the same table, filled in with my answers, and confirm it's right before we move on.
 ```
 
 ## 10 · The Protected Hours
@@ -122,9 +120,9 @@ Nights and mornings are the same ledger, not two separate accounts.
 ```text
 Use the field guide in this repo to interview me on Chapter 10 — The Protected Hours.
 
-Use night-plan/interviewing-the-reader.md for this chapter's exact questions, night-plan/chapter-summaries.md for orientation, and claims.md if I ask why this chapter matters.
+Use night-plan/interviewing-the-reader.md for this chapter's exact questions, assets/chapter-summaries.md for orientation, and assets/claims.md if I ask why this chapter matters.
 
-Write back a short note of what you captured and confirm it's right before we move on.
+Show the chapter's four questions as the two-column table from night-plan/interviewing-the-reader.md before asking anything. Then ask them one at a time, in your own words. Once I've answered all four, reflect back what you captured as the same table, filled in with my answers, and confirm it's right before we move on.
 ```
 
 ## 11 · The Widower Who Kept the Light On
@@ -134,9 +132,9 @@ Quiet isn't empty — it returns people.
 ```text
 Use the field guide in this repo to interview me on Chapter 11 — The Widower Who Kept the Light On.
 
-Use night-plan/interviewing-the-reader.md for this chapter's exact questions, night-plan/chapter-summaries.md for orientation, and claims.md if I ask why this chapter matters. This chapter can surface grief or old memories — if it does, slow down with me instead of rushing ahead, and never treat what I share as something to diagnose.
+Use night-plan/interviewing-the-reader.md for this chapter's exact questions, assets/chapter-summaries.md for orientation, and assets/claims.md if I ask why this chapter matters. This chapter can surface grief or old memories — if it does, slow down with me instead of rushing ahead, and never treat what I share as something to diagnose.
 
-Write back a short note of what you captured and confirm it's right before we move on.
+Show the chapter's four questions as the two-column table from night-plan/interviewing-the-reader.md before asking anything. Then ask them one at a time, in your own words. Once I've answered all four, reflect back what you captured as the same table, filled in with my answers, and confirm it's right before we move on.
 ```
 
 ## 12 · The Woman With Too Much Time
@@ -146,9 +144,9 @@ Work quietly provides a shape that a calendar doesn't name until it's gone.
 ```text
 Use the field guide in this repo to interview me on Chapter 12 — The Woman With Too Much Time.
 
-Use night-plan/interviewing-the-reader.md for this chapter's exact questions, night-plan/chapter-summaries.md for orientation, and claims.md if I ask why this chapter matters.
+Use night-plan/interviewing-the-reader.md for this chapter's exact questions, assets/chapter-summaries.md for orientation, and assets/claims.md if I ask why this chapter matters.
 
-Write back a short note of what you captured and confirm it's right before we move on.
+Show the chapter's four questions as the two-column table from night-plan/interviewing-the-reader.md before asking anything. Then ask them one at a time, in your own words. Once I've answered all four, reflect back what you captured as the same table, filled in with my answers, and confirm it's right before we move on.
 ```
 
 ## 13 · Architecture
@@ -158,9 +156,9 @@ A good night isn't scheduled hour by hour — it has a shape, in four phases.
 ```text
 Use the field guide in this repo to interview me on Chapter 13 — Architecture.
 
-Use night-plan/interviewing-the-reader.md for this chapter's exact questions, night-plan/chapter-summaries.md for orientation, and claims.md if I ask why this chapter matters.
+Use night-plan/interviewing-the-reader.md for this chapter's exact questions, assets/chapter-summaries.md for orientation, and assets/claims.md if I ask why this chapter matters.
 
-Write back a short note of what you captured and confirm it's right before we move on.
+Show the chapter's four questions as the two-column table from night-plan/interviewing-the-reader.md before asking anything. Then ask them one at a time, in your own words. Once I've answered all four, reflect back what you captured as the same table, filled in with my answers, and confirm it's right before we move on.
 ```
 
 ## 14 · The Tool That Works for You
@@ -170,10 +168,9 @@ Already written, in the book, as a briefing to an assistant — a mirror, not a 
 ```text
 Use the field guide in this repo to interview me on Chapter 14 — The Tool That Works for You.
 
-Use night-plan/interviewing-the-reader.md for this chapter's 
-exact questions, night-plan/chapter-summaries.md for orientation, and claims.md if I ask why this chapter matters.
+Use night-plan/interviewing-the-reader.md for this chapter's exact questions, assets/chapter-summaries.md for orientation, and assets/claims.md if I ask why this chapter matters.
 
-Write back a short note of what you captured and confirm it's right before we move on.
+Show the chapter's four questions as the two-column table from night-plan/interviewing-the-reader.md before asking anything. Then ask them one at a time, in your own words. Once I've answered all four, reflect back what you captured as the same table, filled in with my answers, and confirm it's right before we move on.
 ```
 
 ## 15 · The Long Game
@@ -183,9 +180,9 @@ Everyone eventually falls off the structure; the skill isn't a perfect record, i
 ```text
 Use the field guide in this repo to interview me on Chapter 15 — The Long Game.
 
-Use night-plan/interviewing-the-reader.md for this chapter's exact questions, night-plan/chapter-summaries.md for orientation, and claims.md if I ask why this chapter matters. Once I've answered, help me write my three restart moves using night-plan/three-move-restart.md as the protocol.
+Use night-plan/interviewing-the-reader.md for this chapter's exact questions, assets/chapter-summaries.md for orientation, and assets/claims.md if I ask why this chapter matters. Once I've answered, help me write my three restart moves using assets/three-move-restart.md as the protocol.
 
-Write back a short note of what you captured and confirm it's right before we move on.
+Show the chapter's four questions as the two-column table from night-plan/interviewing-the-reader.md before asking anything. Then ask them one at a time, in your own words. Once I've answered all four, reflect back what you captured as the same table, filled in with my answers, and confirm it's right before we move on.
 ```
 
 ## 16 · The Couple Who Came Back
@@ -195,7 +192,9 @@ A closing case study in what becomes possible when nights reopen.
 ```text
 Use the field guide in this repo to interview me on Chapter 16 — The Couple Who Came Back.
 
-Use night-plan/interviewing-the-reader.md for this chapter's exact questions,night-plan/chapter-summaries.md for orientation, and claims.md if I ask why this chapter matters.
+Use night-plan/interviewing-the-reader.md for this chapter's exact questions, assets/chapter-summaries.md for orientation, and assets/claims.md if I ask why this chapter matters.
+
+Show the chapter's four questions as the two-column table from night-plan/interviewing-the-reader.md before asking anything. Then ask them one at a time, in your own words. Once I've answered all four, reflect back what you captured as the same table, filled in with my answers, and confirm it's right before we move on.
 
 Once this chapter is answered, use night-plan assembling-field-guide.md to sort all sixteen chapters' answers into my finished Night Plan, signed the way AGENTS.md describes.
 ```
