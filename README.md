@@ -1,6 +1,6 @@
 # Who Owns the Night — Field Guide Agent
 
-*Draft v2 — companion working session for the Field Guide in Who Owns the Night, for review by Jeff Barbakow.*
+*Draft v2.1 — companion working session for the Field Guide in Who Owns the Night, for review by Jeff Barbakow.*
 
 *Who Owns the Night* closes by handing the reader a Field Guide: fourteen chapters' worth of audit-cost-swap-check questions, gathered under six headings, meant to be handed to "any capable assistant." The book already wrote the interview. This repo runs it live — with an agent, in one sitting, instead of alone on paper afterward.
 

@@ -1,6 +1,6 @@
 # Starter prompts
 
-Use these with [`AGENTS.md`](../AGENTS.md), [`night-plan/interviewing-the-reader.md`](../night-plan/interviewing-the-reader.md), and [`night-plan/chapter-summaries.md`](../night-plan/chapter-summaries.md). Each one opens a single chapter of the interview — its Audit, Cost, Swap, and Check. Work through them in order, 1 through 16; the assembled Night Plan only comes together once all sixteen are answered.
+Use these with [`AGENTS.md`](../AGENTS.md), [`night-plan/interviewing-the-reader.md`](../night-plan/interviewing-the-reader.md), and [`assets/chapter-summaries.md`](../assets/chapter-summaries.md). Each one opens a single chapter of the interview — its Audit, Cost, Swap, and Check. Work through them in order, 1 through 16; the assembled Night Plan only comes together once all sixteen are answered.
 
 If you've already started and fallen off the plan, use [`restart-prompt.md`](restart-prompt.md) instead — you don't need to redo any of these.
 
@@ -9,8 +9,7 @@ If you've already started and fallen off the plan, use [`restart-prompt.md`](res
 A film used to buy a whole evening of attention; what replaced it competes for seconds, not evenings. This chapter names the twelve-second window — the moment you stop choosing what to watch and start being chosen for.
 
 ```text
-Use the field guide in this repo to interview me on Chapter 1 — The Best Part
-of the Day.
+Use the field guide in this repo to interview me on The Best Part of the Day.
 
 Use night-plan/interviewing-the-reader.md for this chapter's exact questions,
 night-plan/chapter-summaries.md for orientation, and claims.md if I ask why this chapter matters.
