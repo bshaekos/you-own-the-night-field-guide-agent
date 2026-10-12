@@ -20,22 +20,22 @@ A chapter file doesn't decide what happens next — this file does. Open only th
 
 | # | Chapter |
 |---|---|
-| 1 | [The Best Part of the Day](chapters/01-the-best-part-of-the-day.md) |
-| 2 | [The Loneliness Algorithm](chapters/02-the-loneliness-algorithm.md) |
-| 3 | [The Engineer Who Couldn't Stop](chapters/03-the-engineer-who-couldnt-stop.md) |
-| 4 | [The Parent Who Disappeared](chapters/04-the-parent-who-disappeared.md) |
-| 5 | [The Native Speaker](chapters/05-the-native-speaker.md) |
-| 6 | [The Last Common Hour](chapters/06-the-last-common-hour.md) |
-| 7 | [The Invoice](chapters/07-the-invoice.md) |
-| 8 | [The Remedies That Don't Work](chapters/08-the-remedies-that-dont-work.md) |
-| 9 | [The Crack in the Wall](chapters/09-the-crack-in-the-wall.md) |
-| 10 | [The Protected Hours](chapters/10-the-protected-hours.md) |
-| 11 | [The Widower Who Kept the Light On](chapters/11-the-widower-who-kept-the-light-on.md) |
-| 12 | [The Woman With Too Much Time](chapters/12-the-woman-with-too-much-time.md) |
-| 13 | [Architecture](chapters/13-architecture.md) |
-| 14 | [The Tool That Works for You](chapters/14-the-tool-that-works-for-you.md) |
-| 15 | [The Long Game](chapters/15-the-long-game.md) |
-| 16 | [The Couple Who Came Back](chapters/16-the-couple-who-came-back.md) |
+| 1 | [The Best Part of the Day](https://github.com/bshaekos/you-own-the-night-field-guide-agent/blob/main/night-plan/chapters/01-the-best-part-of-the-day.md) |
+| 2 | [The Loneliness Algorithm](https://github.com/bshaekos/you-own-the-night-field-guide-agent/blob/main/night-plan/chapters/02-the-loneliness-algorithm.md) |
+| 3 | [The Engineer Who Couldn't Stop](https://github.com/bshaekos/you-own-the-night-field-guide-agent/blob/main/night-plan/chapters/03-the-engineer-who-couldnt-stop.md) |
+| 4 | [The Parent Who Disappeared](https://github.com/bshaekos/you-own-the-night-field-guide-agent/blob/main/night-plan/chapters/04-the-parent-who-disappeared.md) |
+| 5 | [The Native Speaker](https://github.com/bshaekos/you-own-the-night-field-guide-agent/blob/main/night-plan/chapters/05-the-native-speaker.md) |
+| 6 | [The Last Common Hour](https://github.com/bshaekos/you-own-the-night-field-guide-agent/blob/main/night-plan/chapters/06-the-last-common-hour.md) |
+| 7 | [The Invoice](https://github.com/bshaekos/you-own-the-night-field-guide-agent/blob/main/night-plan/chapters/07-the-invoice.md) |
+| 8 | [The Remedies That Don't Work](https://github.com/bshaekos/you-own-the-night-field-guide-agent/blob/main/night-plan/chapters/08-the-remedies-that-dont-work.md) |
+| 9 | [The Crack in the Wall](https://github.com/bshaekos/you-own-the-night-field-guide-agent/blob/main/night-plan/chapters/09-the-crack-in-the-wall.md) |
+| 10 | [The Protected Hours](https://github.com/bshaekos/you-own-the-night-field-guide-agent/blob/main/night-plan/chapters/10-the-protected-hours.md) |
+| 11 | [The Widower Who Kept the Light On](https://github.com/bshaekos/you-own-the-night-field-guide-agent/blob/main/night-plan/chapters/11-the-widower-who-kept-the-light-on.md) |
+| 12 | [The Woman With Too Much Time](https://github.com/bshaekos/you-own-the-night-field-guide-agent/blob/main/night-plan/chapters/12-the-woman-with-too-much-time.md) |
+| 13 | [Architecture](https://github.com/bshaekos/you-own-the-night-field-guide-agent/blob/main/night-plan/chapters/13-architecture.md) |
+| 14 | [The Tool That Works for You](https://github.com/bshaekos/you-own-the-night-field-guide-agent/blob/main/night-plan/chapters/14-the-tool-that-works-for-you.md) |
+| 15 | [The Long Game](https://github.com/bshaekos/you-own-the-night-field-guide-agent/blob/main/night-plan/chapters/15-the-long-game.md) |
+| 16 | [The Couple Who Came Back](https://github.com/bshaekos/you-own-the-night-field-guide-agent/blob/main/night-plan/chapters/16-the-couple-who-came-back.md) |
 
 ## Running a Chapter
 
