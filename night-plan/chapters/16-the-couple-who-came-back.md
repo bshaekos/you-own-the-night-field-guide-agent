@@ -10,17 +10,12 @@
 
 ## The Four Questions
 
-<table>
-  <thead>
-    <tr><th colspan="2">Four Questions</th></tr>
-  </thead>
-  <tbody>
-    <tr><td><strong>Audit</strong></td><td>What dormant capacity would begin to move if the nights opened up? Name it, even if it feels too hopeful.</td></tr>
-    <tr><td><strong>Cost</strong></td><td>What version of you is not currently being returned to the people you love?</td></tr>
-    <tr><td><strong>Swap</strong></td><td>Begin the smallest possible version of the thing you hope your nights might produce.</td></tr>
-    <tr><td><strong>Check</strong></td><td>Did the smallest version produce anything — a page, a call, a walk, a conversation?</td></tr>
-  </tbody>
-</table>
+| Four Questions | |
+|---|---|
+| **Audit** | What dormant capacity would begin to move if the nights opened up? Name it, even if it feels too hopeful. |
+| **Cost** | What version of you is not currently being returned to the people you love? |
+| **Swap** | Begin the smallest possible version of the thing you hope your nights might produce. |
+| **Check** | Did the smallest version produce anything — a page, a call, a walk, a conversation? |
 
 ---
 

@@ -10,17 +10,12 @@
 
 ## The Four Questions
 
-<table>
-  <thead>
-    <tr><th colspan="2">Four Questions</th></tr>
-  </thead>
-  <tbody>
-    <tr><td><strong>Audit</strong></td><td>What scaffolding has your working life quietly provided that you've never named?</td></tr>
-    <tr><td><strong>Cost</strong></td><td>If your days had more purpose, what would your nights be free to become?</td></tr>
-    <tr><td><strong>Swap</strong></td><td>Find one small piece of useful work — not full-time, just meaningful — to give the week a shape. Begin it.</td></tr>
-    <tr><td><strong>Check</strong></td><td>Did it begin to do for the week what the career used to? Did the night lighten?</td></tr>
-  </tbody>
-</table>
+| Four Questions | |
+|---|---|
+| **Audit** | What scaffolding has your working life quietly provided that you've never named? |
+| **Cost** | If your days had more purpose, what would your nights be free to become? |
+| **Swap** | Find one small piece of useful work — not full-time, just meaningful — to give the week a shape. Begin it. |
+| **Check** | Did it begin to do for the week what the career used to? Did the night lighten? |
 
 ---
 

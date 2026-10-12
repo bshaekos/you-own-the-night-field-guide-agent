@@ -10,17 +10,12 @@
 
 ## The Four Questions
 
-<table>
-  <thead>
-    <tr><th colspan="2">Four Questions</th></tr>
-  </thead>
-  <tbody>
-    <tr><td><strong>Audit</strong></td><td>Of the last hundred nights, how many can you recall? What made the memorable ones memorable?</td></tr>
-    <tr><td><strong>Cost</strong></td><td>Is there a ledger you've been postponing — a part of your thinking or history you keep putting off?</td></tr>
-    <tr><td><strong>Swap</strong></td><td>Remove the screen for one evening this week and find out what interior life comes back.</td></tr>
-    <tr><td><strong>Check</strong></td><td>Did the night without the screen produce something? Name it.</td></tr>
-  </tbody>
-</table>
+| Four Questions | |
+|---|---|
+| **Audit** | Of the last hundred nights, how many can you recall? What made the memorable ones memorable? |
+| **Cost** | Is there a ledger you've been postponing — a part of your thinking or history you keep putting off? |
+| **Swap** | Remove the screen for one evening this week and find out what interior life comes back. |
+| **Check** | Did the night without the screen produce something? Name it. |
 
 ---
 

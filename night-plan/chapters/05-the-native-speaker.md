@@ -10,17 +10,12 @@
 
 ## The Four Questions
 
-<table>
-  <thead>
-    <tr><th colspan="2">Four Questions</th></tr>
-  </thead>
-  <tbody>
-    <tr><td><strong>Audit</strong></td><td>Where does your body ache, and what is the ache trying to tell you?</td></tr>
-    <tr><td><strong>Cost</strong></td><td>When were you last alone with your own thoughts for more than ten minutes — and what did you reach for to make it stop?</td></tr>
-    <tr><td><strong>Swap</strong></td><td>Build one threshold this week — a time, a room, a door the feed does not cross.</td></tr>
-    <tr><td><strong>Check</strong></td><td>Did the threshold hold? What did the body begin to say?</td></tr>
-  </tbody>
-</table>
+| Four Questions | |
+|---|---|
+| **Audit** | Where does your body ache, and what is the ache trying to tell you? |
+| **Cost** | When were you last alone with your own thoughts for more than ten minutes — and what did you reach for to make it stop? |
+| **Swap** | Build one threshold this week — a time, a room, a door the feed does not cross. |
+| **Check** | Did the threshold hold? What did the body begin to say? |
 
 *Can surface what the reader's been avoiding sitting with. See [`AGENTS.md`](../../AGENTS.md) → "Handling the harder material."*
 

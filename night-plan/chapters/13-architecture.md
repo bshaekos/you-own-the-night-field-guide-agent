@@ -10,17 +10,12 @@
 
 ## The Four Questions
 
-<table>
-  <thead>
-    <tr><th colspan="2">Four Questions</th></tr>
-  </thead>
-  <tbody>
-    <tr><td><strong>Audit</strong></td><td>Design your ideal night across the four phases — coming-down, the part that's yours, powering-off, sleep.</td></tr>
-    <tr><td><strong>Cost</strong></td><td>Which phase, fixed, would change the most?</td></tr>
-    <tr><td><strong>Swap</strong></td><td>Rebuild one phase this week — most people start with the coming-down.</td></tr>
-    <tr><td><strong>Check</strong></td><td>Did giving the night a shape do what charts and schedules couldn't?</td></tr>
-  </tbody>
-</table>
+| Four Questions | |
+|---|---|
+| **Audit** | Design your ideal night across the four phases — coming-down, the part that's yours, powering-off, sleep. |
+| **Cost** | Which phase, fixed, would change the most? |
+| **Swap** | Rebuild one phase this week — most people start with the coming-down. |
+| **Check** | Did giving the night a shape do what charts and schedules couldn't? |
 
 ---
 

@@ -10,17 +10,12 @@
 
 ## The Four Questions
 
-<table>
-  <thead>
-    <tr><th colspan="2">Four Questions</th></tr>
-  </thead>
-  <tbody>
-    <tr><td><strong>Audit</strong></td><td>What have you already tried? What worked, even briefly, and what made it stop?</td></tr>
-    <tr><td><strong>Cost</strong></td><td>Name one rule you've set that doesn't hold — what is it actually trying to protect?</td></tr>
-    <tr><td><strong>Swap</strong></td><td>Make one prior commitment — a class, a call, a dinner — that answers the nine-o'clock question before it's asked.</td></tr>
-    <tr><td><strong>Check</strong></td><td>Did the commitment do what the rule could not?</td></tr>
-  </tbody>
-</table>
+| Four Questions | |
+|---|---|
+| **Audit** | What have you already tried? What worked, even briefly, and what made it stop? |
+| **Cost** | Name one rule you've set that doesn't hold — what is it actually trying to protect? |
+| **Swap** | Make one prior commitment — a class, a call, a dinner — that answers the nine-o'clock question before it's asked. |
+| **Check** | Did the commitment do what the rule could not? |
 
 ---
 

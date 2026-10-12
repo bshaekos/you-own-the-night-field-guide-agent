@@ -10,17 +10,12 @@
 
 ## The Four Questions
 
-<table>
-  <thead>
-    <tr><th colspan="2">Four Questions</th></tr>
-  </thead>
-  <tbody>
-    <tr><td><strong>Audit</strong></td><td>What is your nervous system trying to drown out in the evening? Name the thing you don't want to sit with.</td></tr>
-    <tr><td><strong>Cost</strong></td><td>Who, living or dead, does your quiet return you to — and who do you lose when the television is on?</td></tr>
-    <tr><td><strong>Swap</strong></td><td>Pick seven people. Sit with one of them, in the quiet, each night for a week.</td></tr>
-    <tr><td><strong>Check</strong></td><td>Did the quiet do what you feared — or what you hoped?</td></tr>
-  </tbody>
-</table>
+| Four Questions | |
+|---|---|
+| **Audit** | What is your nervous system trying to drown out in the evening? Name the thing you don't want to sit with. |
+| **Cost** | Who, living or dead, does your quiet return you to — and who do you lose when the television is on? |
+| **Swap** | Pick seven people. Sit with one of them, in the quiet, each night for a week. |
+| **Check** | Did the quiet do what you feared — or what you hoped? |
 
 *Can surface grief or old memories. See [`AGENTS.md`](../../AGENTS.md) → "Handling the harder material."*
 
