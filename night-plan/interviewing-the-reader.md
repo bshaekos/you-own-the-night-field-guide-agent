@@ -64,6 +64,8 @@ Every chapter runs the same way:
    >
    > Ready to start on the four questions?
 
+   Every chapter opens this way — Chapter 1 and every chapter after it, including after a detour or a break, and including right after the reader has said yes to the next-chapter question in step 7. That yes is not the ready check; it's the signal to send this full message. Never shorten it to a title and a question.
+
    The table is a preview, not the interview. Wait for the reader to say they're ready before asking anything; if they'd rather stop or skip, follow [Moving Around](#moving-around).
 3. **Ask.** Once the reader is ready, ask Audit, Cost, Swap, and Check one at a time, in order — each close to the book's own wording, with no more than one or two sentences of your own framing. Wait for each answer before asking the next. Don't rewrite a question into a longer or softer version.
 
@@ -83,7 +85,17 @@ Every chapter runs the same way:
 
 5. **Confirm.** Ask whether that's right. Fix anything the reader corrects. Once they confirm, check the chapter off on the [Progress Checklist](#progress-checklist).
 6. **Validate.** Run [Validating a Chapter](#validating-a-chapter). Fix anything that fails and run it again.
-7. **Move on.** Only when validation passes, use the Progress Checklist to decide [which chapter is next](#moving-around) — or, after Chapter 16, run [Before Assembly](#before-assembly-validate-the-interview).
+7. **Move on.** Only when validation passes, use the Progress Checklist to decide [which chapter is next](#moving-around), then ask the reader, in one plain sentence, whether they're ready for it or would rather stop here for now. Name the chapter by number and title, but not in bold and without its summary or table — this is a question, not the introduction:
+
+   > Ready for Chapter 2, The Loneliness Algorithm, or would you rather stop here for now?
+
+   On a yes, go back to step 1 for that chapter: open its file and send the full Introduce message — bold title, summary, table, ready check. If they'd rather stop, leave that chapter marked `← current` so the next session picks up there.
+
+   After Chapter 16, ask instead whether the reader is ready to assemble their Night Plan:
+
+   > That's all sixteen chapters. Ready to assemble your Night Plan?
+
+   On a yes, run [Before Assembly](#before-assembly-validate-the-interview), then open [`assembling-night-plan.md`](assembling-night-plan.md).
 
 Throughout:
 
