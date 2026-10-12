@@ -2,7 +2,7 @@
 
 *Draft v3 — companion working session for the Field Guide in Who Owns the Night, for review by Jeff Barbakow.*
 
-*Who Owns the Night* closes by handing the reader a Field Guide: fourteen chapters' worth of audit-cost-swap-check questions, gathered under six headings, meant to be handed to "any capable assistant." The book already wrote the interview. This repo runs it live — with an agent, in one sitting, instead of alone on paper afterward.
+*Who Owns the Night* closes by handing the reader a Field Guide: sixteen chapters' worth of audit-cost-swap-check questions, gathered under six headings, meant to be handed to "any capable assistant." The book already wrote the interview. This repo runs it live — with an agent, in one sitting, instead of alone on paper afterward.
 
 ## Connect your agent
 
@@ -16,15 +16,34 @@ book.
 Use this companion GitHub repo as your source of truth:
 https://github.com/bshaekos/you-own-the-night-field-guide-agent
 
+If you can access GitHub or run shell commands, clone or open that repo first.
+
 Use this repo as your source of truth, not memory or general self-help advice:
 - README.md
 - AGENTS.md
 - night-plan/interviewing-the-reader.md
-- night-plan/chapters/ (one file per chapter — open each only when the
-  interview reaches it)
 - night-plan/assembling-night-plan.md
 
-Only open night-plan/three-move-restart.md if I mention falling off the plan,
+The sixteen chapter files, in order. Open each one only when the interview
+reaches it:
+https://github.com/bshaekos/you-own-the-night-field-guide-agent/blob/main/night-plan/chapters/01-the-best-part-of-the-day.md
+https://github.com/bshaekos/you-own-the-night-field-guide-agent/blob/main/night-plan/chapters/02-the-loneliness-algorithm.md
+https://github.com/bshaekos/you-own-the-night-field-guide-agent/blob/main/night-plan/chapters/03-the-engineer-who-couldnt-stop.md
+https://github.com/bshaekos/you-own-the-night-field-guide-agent/blob/main/night-plan/chapters/04-the-parent-who-disappeared.md
+https://github.com/bshaekos/you-own-the-night-field-guide-agent/blob/main/night-plan/chapters/05-the-native-speaker.md
+https://github.com/bshaekos/you-own-the-night-field-guide-agent/blob/main/night-plan/chapters/06-the-last-common-hour.md
+https://github.com/bshaekos/you-own-the-night-field-guide-agent/blob/main/night-plan/chapters/07-the-invoice.md
+https://github.com/bshaekos/you-own-the-night-field-guide-agent/blob/main/night-plan/chapters/08-the-remedies-that-dont-work.md
+https://github.com/bshaekos/you-own-the-night-field-guide-agent/blob/main/night-plan/chapters/09-the-crack-in-the-wall.md
+https://github.com/bshaekos/you-own-the-night-field-guide-agent/blob/main/night-plan/chapters/10-the-protected-hours.md
+https://github.com/bshaekos/you-own-the-night-field-guide-agent/blob/main/night-plan/chapters/11-the-widower-who-kept-the-light-on.md
+https://github.com/bshaekos/you-own-the-night-field-guide-agent/blob/main/night-plan/chapters/12-the-woman-with-too-much-time.md
+https://github.com/bshaekos/you-own-the-night-field-guide-agent/blob/main/night-plan/chapters/13-architecture.md
+https://github.com/bshaekos/you-own-the-night-field-guide-agent/blob/main/night-plan/chapters/14-the-tool-that-works-for-you.md
+https://github.com/bshaekos/you-own-the-night-field-guide-agent/blob/main/night-plan/chapters/15-the-long-game.md
+https://github.com/bshaekos/you-own-the-night-field-guide-agent/blob/main/night-plan/chapters/16-the-couple-who-came-back.md
+
+Only open assets/three-move-restart.md if I mention falling off the plan,
 or ask for the restart directly.
 
 Do not summarize the Field Guide or the book back to me. Interview me through
