@@ -1,165 +1,199 @@
 # Interviewing the Reader
 
-*Source protocol for the Night Plan interview. This is the file `AGENTS.md` and the starter prompts point to — read it before running any chapter. For what happens after all sixteen chapters are answered, see [`assembling-field-guide.md`](assembling-field-guide.md).*
- 
+*Source protocol for the Night Plan interview. This is the file `AGENTS.md` points to — read it before running any chapter. It owns the whole interview: which chapter opens when, how each one is run and validated, and when the interview is ready for [`assembling-night-plan.md`](assembling-night-plan.md).*
+
 ## What the Night Plan Is
 
 Each chapter of *Who Owns the Night* closes with four questions, always in the same order: an **Audit** of where you are, the **Cost** of staying there, a **Swap** to try this week, and a **Check**, seven days later, on whether it worked.
- 
-The interview runs the sixteen chapters in order, one at a time, exactly as the book does. Don't reorganize by heading as you go — sorting the answers into the six headings is a separate, later step. See [`assembling-field-guide.md`](assembling-field-guide.md) for that.
- 
-## The Interview — Sixteen Chapters, In Order
 
-### The Best Part of the Day
+The interview runs the sixteen chapters in order, one at a time, exactly as the book does. Don't reorganize by heading as you go — sorting the answers into the six headings is a separate, later step. See [`assembling-night-plan.md`](assembling-night-plan.md) for that.
 
-| | |
+## The Chapter Files
+
+Each chapter lives in its own file in [`chapters/`](chapters/), and holds content only:
+
+- **Summary** — what the chapter is getting at. Orientation for you, not a script.
+- **The Four Questions** — the Audit/Cost/Swap/Check table, exactly as the book writes it.
+- **A harder-material note**, on Chapters 2, 5, and 11.
+
+A chapter file doesn't decide what happens next — this file does. Open only the chapter the [Progress Checklist](#progress-checklist) marks `← current`, and come back here once its questions are answered. Don't read ahead, and don't preview later chapters' questions to the reader.
+
+| # | Chapter |
 |---|---|
-| **Audit** | Walk through your current night, hour by hour — where is your own twelve-second window, the moment you stop choosing and start being chosen for? |
-| **Cost** | Name the person in the room whose attention you miss. |
-| **Swap** | Try one screen-free stretch after dinner this week — call it whatever you like. |
-| **Check** | Did the default shift, even slightly, from the screens toward each other? |
+| 1 | [The Best Part of the Day](chapters/01-the-best-part-of-the-day.md) |
+| 2 | [The Loneliness Algorithm](chapters/02-the-loneliness-algorithm.md) |
+| 3 | [The Engineer Who Couldn't Stop](chapters/03-the-engineer-who-couldnt-stop.md) |
+| 4 | [The Parent Who Disappeared](chapters/04-the-parent-who-disappeared.md) |
+| 5 | [The Native Speaker](chapters/05-the-native-speaker.md) |
+| 6 | [The Last Common Hour](chapters/06-the-last-common-hour.md) |
+| 7 | [The Invoice](chapters/07-the-invoice.md) |
+| 8 | [The Remedies That Don't Work](chapters/08-the-remedies-that-dont-work.md) |
+| 9 | [The Crack in the Wall](chapters/09-the-crack-in-the-wall.md) |
+| 10 | [The Protected Hours](chapters/10-the-protected-hours.md) |
+| 11 | [The Widower Who Kept the Light On](chapters/11-the-widower-who-kept-the-light-on.md) |
+| 12 | [The Woman With Too Much Time](chapters/12-the-woman-with-too-much-time.md) |
+| 13 | [Architecture](chapters/13-architecture.md) |
+| 14 | [The Tool That Works for You](chapters/14-the-tool-that-works-for-you.md) |
+| 15 | [The Long Game](chapters/15-the-long-game.md) |
+| 16 | [The Couple Who Came Back](chapters/16-the-couple-who-came-back.md) |
 
-### 2 · The Loneliness Algorithm
+## Running a Chapter
 
-| | |
+Every chapter runs the same way:
+
+1. **Open** the chapter file marked `← current` on the [Progress Checklist](#progress-checklist).
+2. **Orient.** Name the chapter by number and title, and set it up with one line drawn from its **Summary** — in your own words, not read out. For example: *"Chapter 3 — The Engineer Who Couldn't Stop. Apps are built to pull hardest exactly when willpower is lowest; awareness alone doesn't break the pull, friction does."*
+3. **Preview.** Show the chapter's four questions as the two-column table from the chapter file, copied exactly — including its **Four Questions** title row — not paraphrased:
+
+   | Four Questions | |
+   |---|---|
+   | **Audit** | <question text> |
+   | **Cost** | <question text> |
+   | **Swap** | <question text> |
+   | **Check** | <question text> |
+
+   This is a preview, not the interview — move straight into asking after it.
+4. **Ask.** Ask the four questions one at a time, in order — each close to the book's own wording, with no more than one or two sentences of your own framing. Wait for each answer before asking the next. Don't rewrite a question into a longer or softer version.
+5. **Reflect.** Once all four are answered, show the same table again — same four rows, same order — with the reader's answers in place of the questions, condensed to a line each:
+
+   | | |
+   |---|---|
+   | **Audit** | <the reader's answer, in a line> |
+   | **Cost** | <the reader's answer, in a line> |
+   | **Swap** | <the reader's answer, in a line> |
+   | **Check** | <the reader's answer, in a line> |
+
+6. **Confirm.** Ask whether that's right. Fix anything the reader corrects. Once they confirm, check the chapter off on the [Progress Checklist](#progress-checklist).
+7. **Validate.** Run [Validating a Chapter](#validating-a-chapter). Fix anything that fails and run it again.
+8. **Move on.** Only when validation passes, use the Progress Checklist to decide [which chapter is next](#moving-around) — or, after Chapter 16, run [Before Assembly](#before-assembly-validate-the-interview).
+
+Throughout:
+
+- If the reader asks why a chapter matters, answer from [`assets/claims.md`](../assets/claims.md) — briefly, then back to the question.
+- On Chapters 2, 5, and 11, if an answer goes somewhere heavier than habit-tracking, slow down with the reader instead of rushing to the next question, and never treat what they share as something to diagnose. See `AGENTS.md` → "Handling the harder material."
+- **Chapter 15:** once its four questions are answered, help the reader write their three restart moves using [`assets/three-move-restart.md`](../assets/three-move-restart.md) as the protocol, before confirming the chapter.
+
+## Validating a Chapter
+
+Before moving on from any chapter, check your own work on it. This is a self-check — run it silently, and involve the reader only when a fix needs them.
+
+- [ ] **Preview.** I showed the chapter's four-question table exactly as written — not paraphrased, with its **Four Questions** title row — before asking anything.
+- [ ] **Asked.** I asked Audit, Cost, Swap, and Check one at a time, in order, close to the book's wording, and waited for each answer.
+- [ ] **Captured.** Every question has the reader's answer — or the reader explicitly asked to move on or skip, and I've noted which questions are open.
+- [ ] **Faithful.** The filled-in table has the same four rows in the same order, one line each, condensed from the reader's own words and kept as plain as they said them. Nothing added, nothing interpreted or upgraded, no rule they didn't set.
+- [ ] **Confirmed.** The reader confirmed the filled-in table is right — or explicitly asked to move on.
+- [ ] **Tracked.** The chapter is checked off on the Progress Checklist, with any marker it needs, and `← current` / `← return here` are up to date.
+
+Some chapters add one more check:
+
+- [ ] **Chapters 2, 5, 11 — harder material.** If an answer went somewhere heavy, I slowed down and reflected it back rather than rushing on, didn't diagnose, and — if it went past what a habit audit can hold — paused to name that and point toward real help, per `AGENTS.md`.
+- [ ] **Chapter 14 — Rules of Engagement inputs.** The reader's three non-negotiables, three defaults to stop, and one nine-o'clock question are each captured in their own words — or, if they named fewer, the table says so rather than filling the gap.
+- [ ] **Chapter 15 — restart moves.** The reader's three restart moves are written, in order, and each passes the three properties in [`assets/three-move-restart.md`](../assets/three-move-restart.md): short, concrete, runnable on any night.
+
+If any check fails:
+
+1. Name what's off, to yourself.
+2. Fix it — re-ask the missing question, correct the line in the table, or re-show the table and ask the reader to confirm again.
+3. Run this checklist again from the top.
+
+Only move on when every check passes.
+
+## Progress Checklist
+
+The interview may run across more than one sitting, and the reader may bounce between chapters. Keep a checklist of the sixteen chapters so you always know where the interview stands. It's the single source of truth for which chapter is current, which are done, where to return after a detour, and whether the interview is ready for assembly.
+
+**The checklist is yours, not the reader's.** It's internal scaffolding for guiding the interview — never show it, paste it, or refer to it by name in the conversation. Keep it in your own working notes, or rebuild it from the conversation whenever you need it. If the reader asks where they are, answer in plain words — *"We've done eight chapters; next is The Crack in the Wall, and we still owe a return to Chapter 4"* — not with the checklist.
+
+Start it when the interview starts, with every chapter unchecked:
+
+```markdown
+### Night Plan progress
+
+- [ ] 1 · The Best Part of the Day ← current
+- [ ] 2 · The Loneliness Algorithm
+- [ ] 3 · The Engineer Who Couldn't Stop
+- [ ] 4 · The Parent Who Disappeared
+- [ ] 5 · The Native Speaker
+- [ ] 6 · The Last Common Hour
+- [ ] 7 · The Invoice
+- [ ] 8 · The Remedies That Don't Work
+- [ ] 9 · The Crack in the Wall
+- [ ] 10 · The Protected Hours
+- [ ] 11 · The Widower Who Kept the Light On
+- [ ] 12 · The Woman With Too Much Time
+- [ ] 13 · Architecture
+- [ ] 14 · The Tool That Works for You
+- [ ] 15 · The Long Game
+- [ ] 16 · The Couple Who Came Back
+
+- [ ] Assemble the Night Plan
+```
+
+### When a chapter is checked off
+
+A chapter gets checked off in exactly two cases:
+
+1. **The reader confirms the filled-in table.** Step 6 of [Running a Chapter](#running-a-chapter) — they've seen what you collected and said it's right.
+2. **The reader explicitly asks to move on** to another chapter before that. Check it off, and note what was left open, so assembly knows the chapter is thin rather than missing.
+
+Nothing else checks a chapter off — not answering all four questions without confirming, and not simply drifting into a different topic. If the reader moves to a different chapter without asking to move on, the one they left stays unchecked.
+
+### Markers
+
+Put a short marker after a chapter's title to record anything beyond done or not done:
+
+| Marker | Means |
 |---|---|
-| **Audit** | When you reach for the phone at night, what are you actually looking for — distraction, reassurance, news, connection? |
-| **Cost** | Of your evening habits, which feed you and which only fill the time? |
-| **Swap** | Name one person you love whose voice you haven't heard in a month. Call them. |
-| **Check** | Did the call do what the texts haven't? |
- 
-*Can surface loneliness or an estranged relationship. See `AGENTS.md` → "Handling the harder material."*
+| `← current` | The chapter being run now. Only one at a time. |
+| `← return here` | The chapter the reader left to take a detour. Unchecked. Go back to it once the detour chapter is checked off. |
+| `— moved on (Swap, Check open)` | Checked off because the reader asked to move on; names the questions left unanswered. |
+| `— skipped` | Checked off because the reader chose to skip the whole chapter. |
 
-### 3 · The Engineer Who Couldn't Stop
+A mid-interview checklist might look like this:
 
-| | |
-|---|---|
-| **Audit** | Which apps pull hardest, and when — what time, what mood? |
-| **Cost** | If you added ninety seconds of friction to your most-used app, what would come back? |
-| **Swap** | Make one morning choice that makes the night easier — move the charger, uninstall the app, leave the phone in the kitchen. |
-| **Check** | Did the friction hold? |
+```markdown
+- [x] 1 · The Best Part of the Day
+- [x] 2 · The Loneliness Algorithm — moved on (Check open)
+- [x] 3 · The Engineer Who Couldn't Stop
+- [ ] 4 · The Parent Who Disappeared ← return here
+- [ ] 5 · The Native Speaker
+- …
+- [ ] 9 · The Crack in the Wall ← current
+- …
+```
 
-### 4 · The Parent Who Disappeared
+### When to update it
 
-| | |
-|---|---|
-| **Audit** | If someone you love drew a map of where to find you at eight p.m., where would the X be? |
-| **Cost** | Describe the depleted version of you who arrives at day's end — what does it actually need, not what does it reach for? |
-| **Swap** | Write tomorrow's notecard tonight: one work priority, one thing with the people you love, one intention for the hour after. |
-| **Check** | Did the un-depleted you make it into the room? |
+- **At the start**, before opening Chapter 1.
+- **Each time a chapter is checked off**, before opening the next one.
+- **Whenever the reader moves** — jumps ahead, skips, revisits, or picks up an earlier session.
+- **Before assembly**, as part of [Before Assembly: Validate the Interview](#before-assembly-validate-the-interview).
 
-### 5 · The Native Speaker
+### Moving around
 
-| | |
-|---|---|
-| **Audit** | Where does your body ache, and what is the ache trying to tell you? |
-| **Cost** | When were you last alone with your own thoughts for more than ten minutes — and what did you reach for to make it stop? |
-| **Swap** | Build one threshold this week — a time, a room, a door the feed does not cross. |
-| **Check** | Did the threshold hold? What did the body begin to say? |
+- **Which chapter next:** if a chapter is marked `← return here`, go back to it. Otherwise, move `← current` to the earliest unchecked chapter — usually the one after the chapter just finished — and open its file.
+- **Skipping ahead:** if the reader asks to jump to a later chapter, mark the chapter you're leaving `← return here` (unchecked, unless they've also asked to move on from it), move `← current` to the chapter they asked for, and open its file. Once that chapter is checked off, return to the marked chapter and continue in order from there — the detour doesn't become the new order.
+- **Skipping a chapter:** if the reader wants to skip a chapter entirely, check it off as `— skipped` and move to the next one. A thin or skipped chapter is still a valid Night Plan.
+- **Picking up an existing Night Plan:** rebuild the checklist from what the reader pastes — check off every chapter whose answers they've already confirmed, and mark any chapter left thin or skipped. Then tell the reader, in plain words, where you think they left off, confirm that matches what they remember, and open the current chapter. Don't re-open chapters already checked off unless the reader asks to revisit one.
+- **Revisiting a checked-off chapter:** if the reader asks to go back to one, reopen it and update their answers; it stays checked off once they confirm the changes.
+- **No unchecked chapters left:** run [Before Assembly: Validate the Interview](#before-assembly-validate-the-interview).
 
-*Can surface what the reader's been avoiding sitting with. See `AGENTS.md` → "Handling the harder material."*
+## Before Assembly: Validate the Interview
 
-### 6 · The Last Common Hour
+Once every chapter is checked off, check the interview as a whole before opening [`assembling-night-plan.md`](assembling-night-plan.md). Like the chapter checks, this is a self-check against your Progress Checklist and the reader's confirmed tables — run it silently, and involve the reader only when a fix needs them.
 
-| | |
-|---|---|
-| **Audit** | Time your family's dinner honestly — how many minutes does the last common hour actually get? |
-| **Cost** | If the table went quiet for good, where would your family's private culture get made? |
-| **Swap** | Put one pair of hands in the kitchen together this week — one cook, one helper, no screens, and let the talk leak sideways. |
-| **Check** | Did the table inherit a conversation? Did anyone defend the hour without being told to? |
+- [ ] **All sixteen checked off.** Every chapter on the Progress Checklist is checked. Nothing is still marked `← current` or `← return here`.
+- [ ] **Every chapter accounted for.** Each chapter has either a confirmed filled-in table, or a `— moved on (…)` or `— skipped` marker that the reader asked for. No chapter is simply missing.
+- [ ] **Open questions are named.** For every `— moved on (…)` chapter, you know exactly which questions are open, so assembly can leave that part thin rather than fill it in.
+- [ ] **Tables are the reader's, as confirmed.** Each filled-in table is the version the reader confirmed — including any corrections they made — not an earlier draft.
+- [ ] **Rules of Engagement inputs are in hand.** From Chapter 14: non-negotiables, defaults to stop, and the nine-o'clock question. From Chapter 15: three restart moves that are short, concrete, and runnable on any night. If any are thin, it's because the reader chose that — not because a question was missed.
+- [ ] **Nothing beyond scope.** Anything the reader shared that called for a professional rather than a habit audit was handled as `AGENTS.md` describes — paused and pointed toward real help — and isn't being carried into the Night Plan.
+- [ ] **Nothing invented.** Every answer you're about to sort traces back to something the reader actually said.
 
-### 7 · The Invoice
+If any check fails:
 
-| | |
-|---|---|
-| **Audit** | Of the last hundred nights, how many can you recall? What made the memorable ones memorable? |
-| **Cost** | Is there a ledger you've been postponing — a part of your thinking or history you keep putting off? |
-| **Swap** | Remove the screen for one evening this week and find out what interior life comes back. |
-| **Check** | Did the night without the screen produce something? Name it. |
+1. Find the chapter it traces back to.
+2. Fix it there — mark that chapter `← current`, reopen its file, re-ask what's missing or re-confirm what changed, and run [Validating a Chapter](#validating-a-chapter) on it again. Tell the reader plainly why you're going back: *"Before I put this together, I want to finish one thing from Chapter 4."*
+3. Run this checklist again from the top.
 
-### 8 · The Remedies That Don't Work
-
-| | |
-|---|---|
-| **Audit** | What have you already tried? What worked, even briefly, and what made it stop? |
-| **Cost** | Name one rule you've set that doesn't hold — what is it actually trying to protect? |
-| **Swap** | Make one prior commitment — a class, a call, a dinner — that answers the nine-o'clock question before it's asked. |
-| **Check** | Did the commitment do what the rule could not? |
- 
-
-### 9 · The Crack in the Wall
-
-| | |
-|---|---|
-| **Audit** | What would you protect, if you could — one evening activity you'd fight to keep? |
-| **Cost** | What, for you, does not tolerate half-attention? When did you last give it a full night? |
-| **Swap** | Replace your default night with something you love. Name it, pick the night, try it. |
-| **Check** | Did the replacement take you somewhere worth going? |
-
-### 10 · The Protected Hours
-
-| | |
-|---|---|
-| **Audit** | What work — creative, relational, professional — should your nights be serving? |
-| **Cost** | What capacity gets depleted silently by your current habits: the patience, the focus, the warmth, the ear? |
-| **Swap** | Decide, for one night, what you're willing to pay for tomorrow's morning, and what you're not. |
-| **Check** | Did the morning the night paid for actually arrive? |
-
-### 11 · The Widower Who Kept the Light On
-
-| | |
-|---|---|
-| **Audit** | What is your nervous system trying to drown out in the evening? Name the thing you don't want to sit with. |
-| **Cost** | Who, living or dead, does your quiet return you to — and who do you lose when the television is on? |
-| **Swap** | Pick seven people. Sit with one of them, in the quiet, each night for a week. |
-| **Check** | Did the quiet do what you feared — or what you hoped? |
-
-*Can surface grief or old memories. See `AGENTS.md` → "Handling the harder material."*
-
-### 12 · The Woman With Too Much Time
-
-| | |
-|---|---|
-| **Audit** | What scaffolding has your working life quietly provided that you've never named? |
-| **Cost** | If your days had more purpose, what would your nights be free to become? |
-| **Swap** | Find one small piece of useful work — not full-time, just meaningful — to give the week a shape. Begin it. |
-| **Check** | Did it begin to do for the week what the career used to? Did the night lighten? |
-
-### 13 · Architecture
-
-| | |
-|---|---|
-| **Audit** | Design your ideal night across the four phases — coming-down, the part that's yours, powering-off, sleep. |
-| **Cost** | Which phase, fixed, would change the most? |
-| **Swap** | Rebuild one phase this week — most people start with the coming-down. |
-| **Check** | Did giving the night a shape do what charts and schedules couldn't? |
-
-### 14 · The Tool That Works for You
-
-| | |
-|---|---|
-| **Audit** | What would you want an assistant to know about you to help protect your nights? Describe who you want to be from seven to midnight. |
-| **Cost** | What are your three non-negotiables, and the three things you want to stop doing by default? |
-| **Swap** | Write the one question you'd want asked at nine p.m. every night. |
-| **Check** | Did the mirror — not the nanny — hold the night better than rules alone? |
-
-### 15 · The Long Game
-
-| | |
-|---|---|
-| **Audit** | What would *sustained* look like a year from now? Describe a typical Tuesday night. |
-| **Cost** | What share of your evenings do you own now? What share do you want? |
-| **Swap** | Write your three restart moves before you need them — see [`assets/three-move-restart.md`](assets/three-move-restart.md) for the protocol. |
-| **Check** | In a week of real or simulated disruption, did three moves bring you back? |
-
-### 16 · The Couple Who Came Back
-
-| | |
-|---|---|
-| **Audit** | What dormant capacity would begin to move if the nights opened up? Name it, even if it feels too hopeful. |
-| **Cost** | What version of you is not currently being returned to the people you love? |
-| **Swap** | Begin the smallest possible version of the thing you hope your nights might produce. |
-| **Check** | Did the smallest version produce anything — a page, a call, a walk, a conversation? |
----
-
-Once all sixteen chapters are answered, move to [`assembling-field-guide.md`](assembling-field-guide.md).
+Only when every check passes, mark *Assemble the Night Plan* as `← current` and open [`assembling-night-plan.md`](assembling-night-plan.md). Check it off when the finished document is handed over.

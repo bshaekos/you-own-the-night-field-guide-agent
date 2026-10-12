@@ -1,6 +1,6 @@
 # Who Owns the Night — Field Guide Agent
 
-*Draft v2.1 — companion working session for the Field Guide in Who Owns the Night, for review by Jeff Barbakow.*
+*Draft v3 — companion working session for the Field Guide in Who Owns the Night, for review by Jeff Barbakow.*
 
 *Who Owns the Night* closes by handing the reader a Field Guide: fourteen chapters' worth of audit-cost-swap-check questions, gathered under six headings, meant to be handed to "any capable assistant." The book already wrote the interview. This repo runs it live — with an agent, in one sitting, instead of alone on paper afterward.
 
@@ -20,7 +20,9 @@ Use this repo as your source of truth, not memory or general self-help advice:
 - README.md
 - AGENTS.md
 - night-plan/interviewing-the-reader.md
-- night-plan/assembling-field-guide.md
+- night-plan/chapters/ (one file per chapter — open each only when the
+  interview reaches it)
+- night-plan/assembling-night-plan.md
 
 Only open night-plan/three-move-restart.md if I mention falling off the plan,
 or ask for the restart directly.
@@ -34,7 +36,7 @@ Start by asking me whether I'm starting a new Night Plan or picking up one I alr
 If I'm starting fresh, begin with Chapter 1 and move through the rest in the order AGENTS.md sets out.
 
 If you can't reach this repository, tell me and I'll paste
-night-plan/interviewing-the-reader.md directly.
+night-plan/interviewing-the-reader.md and each chapter file directly.
 ```
 
 ## Start here
@@ -42,11 +44,10 @@ night-plan/interviewing-the-reader.md directly.
 | I want to... | Use this |
 | :--- | :--- |
 | Give my agent its operating instructions | [`AGENTS.md`](AGENTS.md) |
-| Work through one chapter at a time | [`prompts/starter-prompts.md`](prompts/starter-prompts.md) |
-| Get back on the plan after falling off it | [`prompts/restart-prompt.md`](prompts/restart-prompt.md) |
-| See the interview the agent runs, chapter by chapter | [`night-plan/interviewing-the-reader.md`](night-plan/interviewing-the-reader.md) |
-| Get a quick summary of what each chapter is about | [`assets/chapter-summaries.md`](assets/chapter-summaries.md) |
-| See how the answers get assembled into six headings | [`night-plan/assembling-field-guide.md`](night-plan/assembling-field-guide.md) |
+| Get back on the plan after falling off it | [`assets/restart-prompt.md`](assets/restart-prompt.md) |
+| See how the agent runs the interview, chapter by chapter | [`night-plan/interviewing-the-reader.md`](night-plan/interviewing-the-reader.md) |
+| Read a chapter's summary and its four questions | [`night-plan/chapters/`](night-plan/chapters/) |
+| See how the answers get assembled into six headings | [`night-plan/assembling-night-plan.md`](night-plan/assembling-night-plan.md) |
 | Read the book's main claims | [`assets/claims.md`](assets/claims.md) |
 | Find further reading | [`REFERENCES.md`](REFERENCES.md) |
 
@@ -67,7 +68,7 @@ Sixteen chapters, answered in order — each one builds toward the six headings 
 - **The Target** — covers what your nights should be serving.
 - **Rules of Engagement** — covers your non-negotiables and your restart moves, written before you need them.
 - **The Long Game** — covers what sustained looks like a year out, and closes with assembling the finished document.
-If you've already built a Night Plan and fell off it, skip straight to **Restart** — see [`prompts/restart-prompt.md`](prompts/restart-prompt.md). That's the one exception to running the interview in order: the restart isn't a chapter, it's how you get back to the one you left off on.
+If you've already built a Night Plan and fell off it, skip straight to **Restart** — see [`assets/restart-prompt.md`](assets/restart-prompt.md). That's the one exception to running the interview in order: the restart isn't a chapter, it's how you get back to the one you left off on.
 
 ## Scope
 
