@@ -10,12 +10,17 @@
 
 ## The Four Questions
 
-| Four Questions | |
-|---|---|
-| **Audit** | If someone you love drew a map of where to find you at eight p.m., where would the X be? |
-| **Cost** | Describe the depleted version of you who arrives at day's end — what does it actually need, not what does it reach for? |
-| **Swap** | Write tomorrow's notecard tonight: one work priority, one thing with the people you love, one intention for the hour after. |
-| **Check** | Did the un-depleted you make it into the room? |
+<table>
+  <thead>
+    <tr><th colspan="2">Four Questions</th></tr>
+  </thead>
+  <tbody>
+    <tr><td><strong>Audit</strong></td><td>If someone you love drew a map of where to find you at eight p.m., where would the X be?</td></tr>
+    <tr><td><strong>Cost</strong></td><td>Describe the depleted version of you who arrives at day's end — what does it actually need, not what does it reach for?</td></tr>
+    <tr><td><strong>Swap</strong></td><td>Write tomorrow's notecard tonight: one work priority, one thing with the people you love, one intention for the hour after.</td></tr>
+    <tr><td><strong>Check</strong></td><td>Did the un-depleted you make it into the room?</td></tr>
+  </tbody>
+</table>
 
 ---
 

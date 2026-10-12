@@ -10,12 +10,17 @@
 
 ## The Four Questions
 
-| Four Questions | |
-|---|---|
-| **Audit** | When you reach for the phone at night, what are you actually looking for — distraction, reassurance, news, connection? |
-| **Cost** | Of your evening habits, which feed you and which only fill the time? |
-| **Swap** | Name one person you love whose voice you haven't heard in a month. Call them. |
-| **Check** | Did the call do what the texts haven't? |
+<table>
+  <thead>
+    <tr><th colspan="2">Four Questions</th></tr>
+  </thead>
+  <tbody>
+    <tr><td><strong>Audit</strong></td><td>When you reach for the phone at night, what are you actually looking for — distraction, reassurance, news, connection?</td></tr>
+    <tr><td><strong>Cost</strong></td><td>Of your evening habits, which feed you and which only fill the time?</td></tr>
+    <tr><td><strong>Swap</strong></td><td>Name one person you love whose voice you haven't heard in a month. Call them.</td></tr>
+    <tr><td><strong>Check</strong></td><td>Did the call do what the texts haven't?</td></tr>
+  </tbody>
+</table>
 
 *Can surface loneliness or an estranged relationship. See [`AGENTS.md`](../../AGENTS.md) → "Handling the harder material."*
 

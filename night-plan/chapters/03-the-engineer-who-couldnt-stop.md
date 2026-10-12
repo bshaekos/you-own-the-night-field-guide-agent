@@ -10,12 +10,17 @@
 
 ## The Four Questions
 
-| Four Questions | |
-|---|---|
-| **Audit** | Which apps pull hardest, and when — what time, what mood? |
-| **Cost** | If you added ninety seconds of friction to your most-used app, what would come back? |
-| **Swap** | Make one morning choice that makes the night easier — move the charger, uninstall the app, leave the phone in the kitchen. |
-| **Check** | Did the friction hold? |
+<table>
+  <thead>
+    <tr><th colspan="2">Four Questions</th></tr>
+  </thead>
+  <tbody>
+    <tr><td><strong>Audit</strong></td><td>Which apps pull hardest, and when — what time, what mood?</td></tr>
+    <tr><td><strong>Cost</strong></td><td>If you added ninety seconds of friction to your most-used app, what would come back?</td></tr>
+    <tr><td><strong>Swap</strong></td><td>Make one morning choice that makes the night easier — move the charger, uninstall the app, leave the phone in the kitchen.</td></tr>
+    <tr><td><strong>Check</strong></td><td>Did the friction hold?</td></tr>
+  </tbody>
+</table>
 
 ---
 

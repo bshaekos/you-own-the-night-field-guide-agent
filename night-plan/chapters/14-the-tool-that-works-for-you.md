@@ -10,12 +10,17 @@
 
 ## The Four Questions
 
-| Four Questions | |
-|---|---|
-| **Audit** | What would you want an assistant to know about you to help protect your nights? Describe who you want to be from seven to midnight. |
-| **Cost** | What are your three non-negotiables, and the three things you want to stop doing by default? |
-| **Swap** | Write the one question you'd want asked at nine p.m. every night. |
-| **Check** | Did the mirror — not the nanny — hold the night better than rules alone? |
+<table>
+  <thead>
+    <tr><th colspan="2">Four Questions</th></tr>
+  </thead>
+  <tbody>
+    <tr><td><strong>Audit</strong></td><td>What would you want an assistant to know about you to help protect your nights? Describe who you want to be from seven to midnight.</td></tr>
+    <tr><td><strong>Cost</strong></td><td>What are your three non-negotiables, and the three things you want to stop doing by default?</td></tr>
+    <tr><td><strong>Swap</strong></td><td>Write the one question you'd want asked at nine p.m. every night.</td></tr>
+    <tr><td><strong>Check</strong></td><td>Did the mirror — not the nanny — hold the night better than rules alone?</td></tr>
+  </tbody>
+</table>
 
 ---
 

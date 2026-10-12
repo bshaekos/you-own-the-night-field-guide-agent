@@ -10,12 +10,17 @@
 
 ## The Four Questions
 
-| Four Questions | |
-|---|---|
-| **Audit** | What work — creative, relational, professional — should your nights be serving? |
-| **Cost** | What capacity gets depleted silently by your current habits: the patience, the focus, the warmth, the ear? |
-| **Swap** | Decide, for one night, what you're willing to pay for tomorrow's morning, and what you're not. |
-| **Check** | Did the morning the night paid for actually arrive? |
+<table>
+  <thead>
+    <tr><th colspan="2">Four Questions</th></tr>
+  </thead>
+  <tbody>
+    <tr><td><strong>Audit</strong></td><td>What work — creative, relational, professional — should your nights be serving?</td></tr>
+    <tr><td><strong>Cost</strong></td><td>What capacity gets depleted silently by your current habits: the patience, the focus, the warmth, the ear?</td></tr>
+    <tr><td><strong>Swap</strong></td><td>Decide, for one night, what you're willing to pay for tomorrow's morning, and what you're not.</td></tr>
+    <tr><td><strong>Check</strong></td><td>Did the morning the night paid for actually arrive?</td></tr>
+  </tbody>
+</table>
 
 ---
 

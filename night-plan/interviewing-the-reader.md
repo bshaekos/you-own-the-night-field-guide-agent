@@ -46,8 +46,8 @@ Every chapter runs the same way:
 
    1. **Title** — the chapter number and title, in bold, on a line by itself.
    2. **Summary** — one or two sentences drawn from the chapter's **Summary**, in your own words, not read out.
-   3. **Preview** — the chapter's four questions as the two-column table from the chapter file, copied exactly — including its **Four Questions** title row — not paraphrased.
-   4. **First question** — the Audit question, close to the book's wording, with no more than one sentence of framing.
+   3. **Preview** — the chapter's four questions, copied exactly from the chapter file's table, not paraphrased. The chapter file's table is HTML so its title can span both columns on GitHub; chat doesn't render HTML, so show it to the reader as the plain markdown table below, with **Four Questions** as its title row. Never paste the HTML into the chat.
+   4. **Ready check** — ask whether the reader is ready to start on the four questions. Don't ask the Audit question yet.
 
    For example:
 
@@ -62,10 +62,16 @@ Every chapter runs the same way:
    > | **Swap** | <question text> |
    > | **Check** | <question text> |
    >
-   > <the Audit question>
+   > Ready to start on the four questions?
 
-   The table is a preview, not the interview — the Audit question that follows it is where the interview starts.
-3. **Ask.** Wait for the Audit answer, then ask Cost, Swap, and Check one at a time, in order — each close to the book's own wording, with no more than one or two sentences of your own framing. Wait for each answer before asking the next. Don't rewrite a question into a longer or softer version.
+   The table is a preview, not the interview. Wait for the reader to say they're ready before asking anything; if they'd rather stop or skip, follow [Moving Around](#moving-around).
+3. **Ask.** Once the reader is ready, ask Audit, Cost, Swap, and Check one at a time, in order — each close to the book's own wording, with no more than one or two sentences of your own framing. Wait for each answer before asking the next. Don't rewrite a question into a longer or softer version.
+
+   Open each question's message with its name in bold, on a line by itself, then the question in its own paragraph:
+
+   > **Audit**
+   >
+   > <the Audit question>
 4. **Reflect.** Once all four are answered, show the same table again — same four rows, same order — with the reader's answers in place of the questions, condensed to a line each:
 
    | | |
@@ -89,8 +95,8 @@ Throughout:
 
 Before moving on from any chapter, check your own work on it. This is a self-check — run it silently, and involve the reader only when a fix needs them.
 
-- [ ] **Introduce.** The chapter's first message had the bold title, the summary, the four-question table exactly as written (not paraphrased, with its **Four Questions** title row), and the Audit question — each its own paragraph, in that order.
-- [ ] **Asked.** I asked Audit, Cost, Swap, and Check one at a time, in order, close to the book's wording, and waited for each answer.
+- [ ] **Introduce.** The chapter's first message had the bold title, the summary, the four-question table with the questions exactly as written (not paraphrased, as a markdown table with its **Four Questions** title row, not HTML), and a ready check — each its own paragraph, in that order — and I waited for the reader to say they were ready before asking Audit.
+- [ ] **Asked.** I asked Audit, Cost, Swap, and Check one at a time, in order, close to the book's wording, each opening with its name in bold on its own line, and waited for each answer.
 - [ ] **Captured.** Every question has the reader's answer — or the reader explicitly asked to move on or skip, and I've noted which questions are open.
 - [ ] **Faithful.** The filled-in table has the same four rows in the same order, one line each, condensed from the reader's own words and kept as plain as they said them. Nothing added, nothing interpreted or upgraded, no rule they didn't set.
 - [ ] **Confirmed.** The reader confirmed the filled-in table is right — or explicitly asked to move on.

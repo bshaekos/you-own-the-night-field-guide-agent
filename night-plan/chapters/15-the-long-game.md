@@ -10,12 +10,17 @@
 
 ## The Four Questions
 
-| Four Questions | |
-|---|---|
-| **Audit** | What would *sustained* look like a year from now? Describe a typical Tuesday night. |
-| **Cost** | What share of your evenings do you own now? What share do you want? |
-| **Swap** | Write your three restart moves before you need them — see [`assets/three-move-restart.md`](../../assets/three-move-restart.md) for the protocol. |
-| **Check** | In a week of real or simulated disruption, did three moves bring you back? |
+<table>
+  <thead>
+    <tr><th colspan="2">Four Questions</th></tr>
+  </thead>
+  <tbody>
+    <tr><td><strong>Audit</strong></td><td>What would <em>sustained</em> look like a year from now? Describe a typical Tuesday night.</td></tr>
+    <tr><td><strong>Cost</strong></td><td>What share of your evenings do you own now? What share do you want?</td></tr>
+    <tr><td><strong>Swap</strong></td><td>Write your three restart moves before you need them — see <a href="../../assets/three-move-restart.md"><code>assets/three-move-restart.md</code></a> for the protocol.</td></tr>
+    <tr><td><strong>Check</strong></td><td>In a week of real or simulated disruption, did three moves bring you back?</td></tr>
+  </tbody>
+</table>
 
 ---
 

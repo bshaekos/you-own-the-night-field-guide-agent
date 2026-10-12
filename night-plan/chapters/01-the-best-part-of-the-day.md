@@ -10,12 +10,17 @@
 
 ## The Four Questions
 
-| Four Questions | |
-|---|---|
-| **Audit** | Walk through your current night, hour by hour — where is your own twelve-second window, the moment you stop choosing and start being chosen for? |
-| **Cost** | Name the person in the room whose attention you miss. |
-| **Swap** | Try one screen-free stretch after dinner this week — call it whatever you like. |
-| **Check** | Did the default shift, even slightly, from the screens toward each other? |
+<table>
+  <thead>
+    <tr><th colspan="2">Four Questions</th></tr>
+  </thead>
+  <tbody>
+    <tr><td><strong>Audit</strong></td><td>Walk through your current night, hour by hour — where is your own twelve-second window, the moment you stop choosing and start being chosen for?</td></tr>
+    <tr><td><strong>Cost</strong></td><td>Name the person in the room whose attention you miss.</td></tr>
+    <tr><td><strong>Swap</strong></td><td>Try one screen-free stretch after dinner this week — call it whatever you like.</td></tr>
+    <tr><td><strong>Check</strong></td><td>Did the default shift, even slightly, from the screens toward each other?</td></tr>
+  </tbody>
+</table>
 
 ---
 

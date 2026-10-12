@@ -10,12 +10,17 @@
 
 ## The Four Questions
 
-| Four Questions | |
-|---|---|
-| **Audit** | Time your family's dinner honestly — how many minutes does the last common hour actually get? |
-| **Cost** | If the table went quiet for good, where would your family's private culture get made? |
-| **Swap** | Put one pair of hands in the kitchen together this week — one cook, one helper, no screens, and let the talk leak sideways. |
-| **Check** | Did the table inherit a conversation? Did anyone defend the hour without being told to? |
+<table>
+  <thead>
+    <tr><th colspan="2">Four Questions</th></tr>
+  </thead>
+  <tbody>
+    <tr><td><strong>Audit</strong></td><td>Time your family's dinner honestly — how many minutes does the last common hour actually get?</td></tr>
+    <tr><td><strong>Cost</strong></td><td>If the table went quiet for good, where would your family's private culture get made?</td></tr>
+    <tr><td><strong>Swap</strong></td><td>Put one pair of hands in the kitchen together this week — one cook, one helper, no screens, and let the talk leak sideways.</td></tr>
+    <tr><td><strong>Check</strong></td><td>Did the table inherit a conversation? Did anyone defend the hour without being told to?</td></tr>
+  </tbody>
+</table>
 
 ---
 

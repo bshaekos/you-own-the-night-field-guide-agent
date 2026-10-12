@@ -10,12 +10,17 @@
 
 ## The Four Questions
 
-| Four Questions | |
-|---|---|
-| **Audit** | What would you protect, if you could — one evening activity you'd fight to keep? |
-| **Cost** | What, for you, does not tolerate half-attention? When did you last give it a full night? |
-| **Swap** | Replace your default night with something you love. Name it, pick the night, try it. |
-| **Check** | Did the replacement take you somewhere worth going? |
+<table>
+  <thead>
+    <tr><th colspan="2">Four Questions</th></tr>
+  </thead>
+  <tbody>
+    <tr><td><strong>Audit</strong></td><td>What would you protect, if you could — one evening activity you'd fight to keep?</td></tr>
+    <tr><td><strong>Cost</strong></td><td>What, for you, does not tolerate half-attention? When did you last give it a full night?</td></tr>
+    <tr><td><strong>Swap</strong></td><td>Replace your default night with something you love. Name it, pick the night, try it.</td></tr>
+    <tr><td><strong>Check</strong></td><td>Did the replacement take you somewhere worth going?</td></tr>
+  </tbody>
+</table>
 
 ---
 
